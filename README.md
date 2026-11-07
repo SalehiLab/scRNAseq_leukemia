@@ -1,1 +1,1 @@
-Supplementary workflow details for the manuscript of "F. Mohagheghian, Mobin Pirouzkhah, Mahya Bakhshi Ardakani, Z. Eghbali, Z. Salehi2, N. Salehi, "Single-cell analysis reveals lineage- and cell-state-specific disulfidptosis-associated expression patterns in acute leukemia".
+Supplementary workflow details for the manuscript of "F. Mohagheghian, M. Pirouzkhah, M. Bakhshi Ardakani, Z. Eghbali, Z. Salehi2, N. Salehi, "Single-cell analysis reveals lineage- and cell-state-specific disulfidptosis-associated expression patterns in acute leukemia".
